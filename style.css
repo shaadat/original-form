@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+}
+
+.every{
+    border: 1px solid white;
+    color: white;
+    justify-content: space-between;
+    padding: 30px;
+}
+.surveyform{
+    text-align: center;
+    color: white;
+}
+.sides {
+    display: flex;
+    /* justify-content: space-between; */
+}
+.end{
+    color: blue;
+    text-align: center;
+}
+.headings{
+     line-height: 0.1px;
+}
+hr{
+    width: 650px;
+}
+.second{
+    padding-left: 20px;
+}
+.add input{
+    width: 363px;
+}
